@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Brothership feat. GIO, LGRookees（feat. GIO、LGRookees）",
+  "base_artist": "LGYankees",
+  "createdAt": "2026-02-06T14:37:49.429756Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Brothership feat. GIO, LGRookees",
+      "artist": "LGYankees",
+      "has_synced": false,
+      "path": "select/pl_01_Brothership_feat._GIO,_LGRookees_LGYankees.txt"
+    }
+  ]
+}
